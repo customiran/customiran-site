@@ -1,0 +1,207 @@
+{
+  "section_id": "custom-catalog",
+  "heading_fa": "لیست کاستوم‌ها",
+  "filter_button_fa": "فیلترها",
+  "display_price": false,
+  "product_count": 8,
+  "products": [
+    {
+      "id": "snoop-dogg",
+      "display_name": "SNOOP DOGG",
+      "name_fa": "اسنوپ داگ",
+      "name_status": "from_approved_mockup",
+      "order": 0,
+      "cut": "high-top",
+      "toe_direction_in_image": "right",
+      "image": {
+        "path": "assets/products/snoop-dogg.webp",
+        "width": 1122,
+        "height": 1402,
+        "has_alpha": false,
+        "alt_fa": "کتونی کاستوم اسنوپ داگ در استودیوی آبی خاکستری، نمای طرح بیرونی"
+      },
+      "view_label_fa": "مشاهده مدل",
+      "product_url": null,
+      "source_reference": "references/products/snoop-source.jpeg"
+    },
+    {
+      "id": "rayder",
+      "display_name": "RAYDER",
+      "name_fa": "رایدر",
+      "name_status": "from_approved_mockup",
+      "order": 1,
+      "cut": "high-top",
+      "toe_direction_in_image": "lower-right",
+      "image": {
+        "path": "assets/products/rayder.webp",
+        "width": 1122,
+        "height": 1402,
+        "has_alpha": false,
+        "alt_fa": "کتونی کاستوم رایدر در استودیوی آبی خاکستری، نمای طرح بیرونی"
+      },
+      "view_label_fa": "مشاهده مدل",
+      "product_url": null,
+      "source_reference": "references/products/rayder-pair-source.jpeg"
+    },
+    {
+      "id": "chrome-hearts",
+      "display_name": "CHROME HEARTS",
+      "name_fa": "کروم هارتس",
+      "name_status": "from_approved_mockup",
+      "order": 2,
+      "cut": "high-top",
+      "toe_direction_in_image": "lower-left",
+      "image": {
+        "path": "assets/products/chrome-hearts.webp",
+        "width": 1122,
+        "height": 1402,
+        "has_alpha": false,
+        "alt_fa": "کتونی کاستوم کروم هارتس در استودیوی آبی خاکستری، نمای طرح بیرونی"
+      },
+      "view_label_fa": "مشاهده مدل",
+      "product_url": null,
+      "source_reference": "references/products/chrome-hearts-sheet.jpeg"
+    },
+    {
+      "id": "cr7",
+      "display_name": "CR7",
+      "name_fa": "کریستیانو رونالدو",
+      "name_status": "from_approved_mockup",
+      "order": 3,
+      "cut": "high-top",
+      "toe_direction_in_image": "right",
+      "image": {
+        "path": "assets/products/cr7.webp",
+        "width": 1122,
+        "height": 1402,
+        "has_alpha": false,
+        "alt_fa": "کتونی کاستوم کریستیانو رونالدو در استودیوی آبی خاکستری، نمای طرح بیرونی"
+      },
+      "view_label_fa": "مشاهده مدل",
+      "product_url": null,
+      "source_reference": "references/products/cr7-source.jpeg"
+    },
+    {
+      "id": "itachi",
+      "display_name": "ITACHI",
+      "name_fa": "ایتاچی",
+      "name_status": "from_approved_mockup",
+      "order": 4,
+      "cut": "high-top",
+      "toe_direction_in_image": "right",
+      "image": {
+        "path": "assets/products/itachi.webp",
+        "width": 1122,
+        "height": 1402,
+        "has_alpha": false,
+        "alt_fa": "کتونی کاستوم ایتاچی در استودیوی آبی خاکستری، نمای طرح بیرونی"
+      },
+      "view_label_fa": "مشاهده مدل",
+      "product_url": null,
+      "source_reference": "references/products/itachi-army-source.jpeg"
+    },
+    {
+      "id": "cross",
+      "display_name": "CROSS",
+      "name_fa": "کراس",
+      "name_status": "from_approved_mockup",
+      "order": 5,
+      "cut": "high-top",
+      "toe_direction_in_image": "left",
+      "image": {
+        "path": "assets/products/cross.webp",
+        "width": 1122,
+        "height": 1402,
+        "has_alpha": false,
+        "alt_fa": "کتونی کاستوم کراس در استودیوی آبی خاکستری، نمای طرح بیرونی"
+      },
+      "view_label_fa": "مشاهده مدل",
+      "product_url": null,
+      "source_reference": "references/products/cross-sheet.jpeg"
+    },
+    {
+      "id": "army",
+      "display_name": "ARMY",
+      "name_fa": "آرمی",
+      "name_status": "from_approved_mockup",
+      "order": 6,
+      "cut": "high-top",
+      "toe_direction_in_image": "right",
+      "image": {
+        "path": "assets/products/army.webp",
+        "width": 1122,
+        "height": 1402,
+        "has_alpha": false,
+        "alt_fa": "کتونی کاستوم آرمی در استودیوی آبی خاکستری، نمای طرح بیرونی"
+      },
+      "view_label_fa": "مشاهده مدل",
+      "product_url": null,
+      "source_reference": "references/products/itachi-army-source.jpeg"
+    },
+    {
+      "id": "flower",
+      "display_name": "FLOWER",
+      "name_fa": "گل‌دار",
+      "name_status": "provisional",
+      "order": 7,
+      "cut": "low-top",
+      "toe_direction_in_image": "right",
+      "image": {
+        "path": "assets/products/flower.webp",
+        "width": 1122,
+        "height": 1402,
+        "has_alpha": false,
+        "alt_fa": "کتونی کاستوم گل‌دار در استودیوی آبی خاکستری، نمای طرح بیرونی"
+      },
+      "view_label_fa": "مشاهده مدل",
+      "product_url": null,
+      "source_reference": "references/products/flower-sheet.jpeg"
+    }
+  ],
+  "campaign": {
+    "wordmark": "CUSTOM IRAN",
+    "image": {
+      "path": "assets/campaign/raven-cutout.webp",
+      "width": 1254,
+      "height": 1254,
+      "has_alpha": true,
+      "alt_fa": "ریون با کتونی اسنوپ داگ در دست، با زمینهٔ شفاف"
+    },
+    "background": {
+      "path": "assets/background/section-background.webp",
+      "width": 1536,
+      "height": 1024,
+      "has_alpha": false,
+      "alt_fa": ""
+    },
+    "grid_span_desktop": 2,
+    "product_featured": "snoop-dogg"
+  },
+  "filter_definition": {
+    "status": "proposed_for_implementation",
+    "field": "cut",
+    "default": "all",
+    "label_fa": "فرم کفش",
+    "close_label_fa": "بستن",
+    "options": [
+      {
+        "value": "all",
+        "label_fa": "همه مدل‌ها"
+      },
+      {
+        "value": "high-top",
+        "label_fa": "ساق‌دار"
+      },
+      {
+        "value": "low-top",
+        "label_fa": "کوتاه"
+      }
+    ]
+  },
+  "product_link_configuration": "set product_url from the existing site router when each product page is ready",
+  "contact_configuration": "reuse the shared order/contact setting from the first hero package",
+  "status_messages_fa": {
+    "unconfigured_product": "صفحهٔ این مدل در حال آماده‌سازی است",
+    "image_error": "تصویر این مدل بارگذاری نشد"
+  }
+}
